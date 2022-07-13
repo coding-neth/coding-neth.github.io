@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+    padding: 0px;
+  }
+
+.top{
+  width: 100%;
+  background-color: lightcoral;
+  background-image: url(./123.jpg);
+  
+}
+
+.heading{
+  text-align: center;
+  font-family: arial;
+}
+
+.img{
+  width: 30%;
+  display: block;
+  margin: 0px auto;
+}
+
+.mid{
+  background-color: lawngreen;
+  width: max-content;
+}
+
+.midp{
+  padding-top: 4%;
+}
