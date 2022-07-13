@@ -5,8 +5,12 @@ body {
 
 .top{
   width: 100%;
+  height: 20%;
   background-color: lightcoral;
   background-image: url(./123.jpg);
+  background-attachment: fixed;
+  background-size: 100% 70%;
+  background-repeat: no-repeat;
   
 }
 
